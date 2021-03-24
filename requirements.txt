@@ -74,7 +74,7 @@ PyYAML==5.1
 requests==2.22.0
 requests-aws4auth==0.9
 responses==0.10.6
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.2.1
 six==1.12.0
 srp-ext==1.0.7.1
