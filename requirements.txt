@@ -44,7 +44,7 @@ jsonpath-rw==1.4.0
 jsonpickle==1.2
 jsonpointer==2.0
 jsonschema==3.0.2
-localstack==0.10.1.3
+localstack==0.12.11
 localstack-client==0.9
 localstack-ext==0.10.1.10
 MarkupSafe==1.1.1
